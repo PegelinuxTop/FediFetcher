@@ -5,12 +5,10 @@
   "home-timeline-length": 500,
   "reply-interval-in-hours": 48,
   "from-notifications": 10,
-  "max-bookmarks": 20,
+  "max-bookmarks": 50,
   "max-favourites": 50,
   "max-follow-requests": 10,
-  "backfill-with-context": 0,
-  "backfill-mentioned-users": 0,
-  "remember-users-for-hours": 72,
-  "http-timeout": 11,
+  "remember-users-for-hours": 216,
+  "http-timeout": 10,
   "on-done": "https://hc-ping.com/cb31e971-6cae-4274-b166-eea890d055db"
 }
